@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T01:38:08Z",
+            "last_commit": "2026-08-13T20:01:51Z",
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16516
+            "stars": 16518
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T18:39:07Z",
+            "last_commit": "2026-08-13T13:05:07Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10880
+            "stars": 10885
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:39:38Z",
+            "last_commit": "2026-08-13T15:18:20Z",
             "owner": "Azure",
             "repo": "Azure-Sentinel",
-            "stars": 6061
+            "stars": 6060
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:50:09Z",
+            "last_commit": "2026-08-13T19:38:50Z",
             "owner": "elastic",
             "repo": "detection-rules",
             "stars": 2686
@@ -70,7 +70,7 @@
             "last_commit": "2026-07-23T17:56:56Z",
             "owner": "Bert-JanP",
             "repo": "Hunting-Queries-Detection-Rules",
-            "stars": 1731
+            "stars": 1732
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:35:09Z",
+            "last_commit": "2026-08-13T19:55:24Z",
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1671
+            "stars": 1672
           }
         },
         {
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-08-13T03:15:41Z",
+            "last_commit": "2026-08-13T10:08:07Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
             "stars": 1472
@@ -123,10 +123,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T06:08:04Z",
+            "last_commit": "2026-08-13T09:11:45Z",
             "owner": "SlimKQL",
             "repo": "Hunting-Queries-Detection-Rules",
-            "stars": 924
+            "stars": 923
           }
         },
         {
@@ -151,7 +151,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-07-28T11:17:41Z",
+            "last_commit": "2026-08-13T08:44:31Z",
             "owner": "Cyb3r-Monk",
             "repo": "Threat-Hunting-and-Detection",
             "stars": 822
@@ -182,7 +182,7 @@
             "last_commit": "2026-08-06T21:02:46Z",
             "owner": "chronicle",
             "repo": "detection-rules",
-            "stars": 514
+            "stars": 512
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2023-01-24T12:02:51Z",
             "owner": "sbousseaden",
             "repo": "EVTX-ATTACK-SAMPLES",
-            "stars": 2604
+            "stars": 2605
           }
         },
         {
@@ -457,10 +457,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-10T11:19:31Z",
+            "last_commit": "2026-08-13T17:05:18Z",
             "owner": "redcanaryco",
             "repo": "atomic-red-team",
-            "stars": 12393
+            "stars": 12399
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2026-03-12T06:57:44Z",
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8181
+            "stars": 8184
           }
         },
         {
@@ -488,7 +488,7 @@
             "last_commit": "2025-05-01T13:34:05Z",
             "owner": "guardicore",
             "repo": "monkey",
-            "stars": 7069
+            "stars": 7068
           }
         },
         {
@@ -513,10 +513,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T13:52:57Z",
+            "last_commit": "2026-08-13T09:19:13Z",
             "owner": "DataDog",
             "repo": "stratus-red-team",
-            "stars": 2369
+            "stars": 2371
           }
         },
         {
@@ -572,7 +572,7 @@
             "last_commit": "2026-08-08T15:49:03Z",
             "owner": "eventum-generator",
             "repo": "eventum",
-            "stars": 59
+            "stars": 60
           }
         }
       ],
@@ -592,7 +592,7 @@
             "last_commit": "2024-07-03T17:26:43Z",
             "owner": "SwiftOnSecurity",
             "repo": "sysmon-config",
-            "stars": 5619
+            "stars": 5621
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2026-08-10T00:47:52Z",
             "owner": "olafhartong",
             "repo": "sysmon-modular",
-            "stars": 3111
+            "stars": 3112
           }
         },
         {
@@ -620,7 +620,7 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1885
+            "stars": 1887
           }
         }
       ],
@@ -778,7 +778,7 @@
             "last_commit": "2026-01-05T12:27:34Z",
             "owner": "0x4D31",
             "repo": "awesome-threat-detection",
-            "stars": 4699
+            "stars": 4701
           }
         },
         {
@@ -792,7 +792,7 @@
             "last_commit": "2026-08-03T16:57:29Z",
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1315
+            "stars": 1316
           }
         },
         {
@@ -814,7 +814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:11:06.152Z",
+    "last_updated": "2026-08-13T20:08:48.423Z",
     "original_repository": "st0pp3r/awesome-detection-engineer",
     "original_repository_sha": "77999f0dd5643f35908264bf7fd7c88e3d869e39",
     "enhanced_repository": "enhansome/enhansome-detection-engineer",
