@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40556106,
             "language": "C++",
-            "last_commit": "2026-08-18T19:43:17Z",
+            "last_commit": "2026-08-19T12:12:45Z",
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16593
+            "stars": 16596
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77276660,
             "language": "Python",
-            "last_commit": "2026-08-15T02:01:40Z",
+            "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10903
+            "stars": 10906
           }
         },
         {
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145183271,
             "language": "Python",
-            "last_commit": "2026-08-18T18:19:02Z",
+            "last_commit": "2026-08-19T12:20:53Z",
             "owner": "Azure",
             "repo": "Azure-Sentinel",
             "stars": 6065
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273084758,
             "language": "Python",
-            "last_commit": "2026-08-18T19:17:31Z",
+            "last_commit": "2026-08-19T12:18:57Z",
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2688
+            "stars": 2689
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 498037475,
             "language": "Python",
             "last_commit": "2026-07-23T17:56:56Z",
             "owner": "Bert-JanP",
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162346001,
             "language": "Python",
-            "last_commit": "2026-08-18T17:31:03Z",
+            "last_commit": "2026-08-19T12:05:24Z",
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1672
+            "stars": 1675
           }
         },
         {
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 394088077,
             "language": null,
             "last_commit": "2026-01-29T01:28:08Z",
             "owner": "reprise99",
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 495971687,
             "language": "YARA",
-            "last_commit": "2026-08-18T10:07:49Z",
+            "last_commit": "2026-08-19T10:09:37Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1474
+            "stars": 1475
           }
         },
         {
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 837067630,
             "language": "JavaScript",
             "last_commit": "2026-08-14T09:28:03Z",
             "owner": "SlimKQL",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284946983,
             "language": null,
             "last_commit": "2026-05-07T13:25:35Z",
             "owner": "FalconForceTeam",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 309350249,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-14T21:13:33Z",
             "owner": "Cyb3r-Monk",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 515552031,
             "language": null,
             "last_commit": "2026-06-03T17:41:26Z",
             "owner": "cyb3rmik3",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331114594,
             "language": "Python",
             "last_commit": "2026-08-06T21:02:46Z",
             "owner": "chronicle",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316608551,
             "language": null,
             "last_commit": "2026-05-21T07:06:55Z",
             "owner": "mdecrevoisier",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 446990881,
             "language": "Python",
             "last_commit": "2024-06-12T14:47:30Z",
             "owner": "GoogleCloudPlatform",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 838381921,
             "language": null,
             "last_commit": "2026-06-23T23:23:08Z",
             "owner": "SecurityAura",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218000702,
             "language": null,
             "last_commit": "2024-11-04T08:32:16Z",
             "owner": "joesecurity",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436824802,
             "language": "Python",
             "last_commit": "2026-08-13T21:37:40Z",
             "owner": "Yamato-Security",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 561884007,
             "language": null,
             "last_commit": "2025-11-25T21:21:50Z",
             "owner": "mbabinski",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 446721298,
             "language": "Python",
             "last_commit": "2025-01-29T17:41:49Z",
             "owner": "tsale",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 753190239,
             "language": null,
             "last_commit": "2026-03-31T12:19:58Z",
             "owner": "anvilogic-forge",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 690383249,
             "language": null,
             "last_commit": "2026-07-07T10:17:09Z",
             "owner": "0xAnalyst",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 673723033,
             "language": "Python",
             "last_commit": "2025-03-02T22:34:34Z",
             "owner": "mthcht",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 778723619,
             "language": "Python",
             "last_commit": "2026-08-16T12:59:52Z",
             "owner": "Inovasys-CS",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 724419191,
             "language": null,
             "last_commit": "2025-04-20T03:40:16Z",
             "owner": "pandare9x",
@@ -357,7 +382,7 @@
       "title": "Detection Rules"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -366,11 +391,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175782105,
             "language": "HTML",
             "last_commit": "2023-01-24T12:02:51Z",
             "owner": "sbousseaden",
             "repo": "EVTX-ATTACK-SAMPLES",
-            "stars": 2608
+            "stars": 2609
           }
         },
         {
@@ -380,11 +406,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135628483,
             "language": "PowerShell",
             "last_commit": "2024-03-20T20:19:19Z",
             "owner": "OTRF",
             "repo": "Security-Datasets",
-            "stars": 1799
+            "stars": 1800
           }
         },
         {
@@ -394,11 +421,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 281495346,
             "language": "Python",
             "last_commit": "2026-08-17T12:44:07Z",
             "owner": "splunk",
             "repo": "attack_data",
-            "stars": 803
+            "stars": 804
           }
         },
         {
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278452836,
             "language": null,
             "last_commit": "2026-05-21T07:07:01Z",
             "owner": "mdecrevoisier",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280750641,
             "language": null,
             "last_commit": "2021-04-29T23:39:40Z",
             "owner": "sbousseaden",
@@ -436,18 +466,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350527026,
             "language": null,
             "last_commit": "2021-03-18T15:21:47Z",
             "owner": "UraSecTeam",
             "repo": "mordor",
-            "stars": 68
+            "stars": 69
           }
         }
       ],
       "title": "Attack Samples"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -456,11 +487,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106586124,
             "language": "C",
             "last_commit": "2026-08-17T18:03:26Z",
             "owner": "redcanaryco",
             "repo": "atomic-red-team",
-            "stars": 12420
+            "stars": 12424
           }
         },
         {
@@ -470,11 +502,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 410808925,
             "language": "PowerShell",
             "last_commit": "2026-03-12T06:57:44Z",
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8204
+            "stars": 8207
           }
         },
         {
@@ -484,11 +517,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41620215,
             "language": "Python",
             "last_commit": "2025-05-01T13:34:05Z",
             "owner": "guardicore",
             "repo": "monkey",
-            "stars": 7072
+            "stars": 7074
           }
         },
         {
@@ -498,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120097644,
             "language": "Batchfile",
             "last_commit": "2025-09-23T10:20:43Z",
             "owner": "NextronSystems",
@@ -512,11 +547,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445524190,
             "language": "Go",
-            "last_commit": "2026-08-18T08:15:11Z",
+            "last_commit": "2026-08-19T08:42:37Z",
             "owner": "DataDog",
             "repo": "stratus-red-team",
-            "stars": 2373
+            "stars": 2374
           }
         },
         {
@@ -526,11 +562,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116955127,
             "language": "Go",
             "last_commit": "2024-04-04T11:25:53Z",
             "owner": "alphasoc",
             "repo": "flightsim",
-            "stars": 1362
+            "stars": 1363
           }
         },
         {
@@ -540,11 +577,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116955127,
             "language": "Go",
             "last_commit": "2024-04-04T11:25:53Z",
             "owner": "alphasoc",
             "repo": "flightsim",
-            "stars": 1362
+            "stars": 1363
           }
         },
         {
@@ -554,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131503323,
             "language": "C#",
             "last_commit": "2024-05-02T13:32:00Z",
             "owner": "n0dec",
@@ -568,8 +607,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 714666245,
             "language": "Python",
-            "last_commit": "2026-08-18T18:30:55Z",
+            "last_commit": "2026-08-18T20:50:49Z",
             "owner": "eventum-generator",
             "repo": "eventum",
             "stars": 61
@@ -579,7 +619,7 @@
       "title": "Detection Tests and Emulation Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -588,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80652174,
             "language": null,
             "last_commit": "2024-07-03T17:26:43Z",
             "owner": "SwiftOnSecurity",
@@ -602,11 +643,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117379388,
             "language": "PowerShell",
             "last_commit": "2026-08-10T00:47:52Z",
             "owner": "olafhartong",
             "repo": "sysmon-modular",
-            "stars": 3118
+            "stars": 3119
           }
         },
         {
@@ -616,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150223220,
             "language": "Shell",
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
@@ -627,7 +670,7 @@
       "title": "Logging Configuration and Best Practices"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -636,11 +679,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178419209,
             "language": "SCSS",
             "last_commit": "2026-08-06T01:26:07Z",
             "owner": "rabobank-cdc",
             "repo": "DeTTECT",
-            "stars": 2332
+            "stars": 2333
           }
         },
         {
@@ -650,6 +694,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 622335595,
             "language": "Python",
             "last_commit": "2026-08-12T07:33:56Z",
             "owner": "tsale",
@@ -664,6 +709,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114705352,
             "language": null,
             "last_commit": "2025-09-08T18:00:25Z",
             "owner": "palantir",
@@ -678,6 +724,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267436946,
             "language": "PowerShell",
             "last_commit": "2021-11-09T01:39:51Z",
             "owner": "strontic",
@@ -692,6 +739,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1146593546,
             "language": null,
             "last_commit": "2026-03-05T09:15:38Z",
             "owner": "Adversarial-Detection-Engineering",
@@ -703,7 +751,7 @@
       "title": "Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -712,11 +760,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86134528,
             "language": "HTML",
             "last_commit": "2024-07-06T21:27:28Z",
             "owner": "clong",
             "repo": "DetectionLab",
-            "stars": 5011
+            "stars": 5012
           }
         },
         {
@@ -726,11 +775,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184844805,
             "language": "Python",
             "last_commit": "2026-08-11T19:22:44Z",
             "owner": "splunk",
             "repo": "attack_range",
-            "stars": 2540
+            "stars": 2541
           }
         },
         {
@@ -740,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 636264898,
             "language": "PHP",
             "last_commit": "2026-04-02T20:15:04Z",
             "owner": "Krook9d",
@@ -754,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 446330166,
             "language": "Jinja",
             "last_commit": "2024-11-20T14:06:45Z",
             "owner": "op7ic",
@@ -765,7 +817,7 @@
       "title": "Labs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -774,11 +826,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117328645,
             "language": null,
             "last_commit": "2026-01-05T12:27:34Z",
             "owner": "0x4D31",
             "repo": "awesome-threat-detection",
-            "stars": 4701
+            "stars": 4702
           }
         },
         {
@@ -788,11 +841,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298706027,
             "language": null,
             "last_commit": "2026-08-03T16:57:29Z",
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1319
+            "stars": 1320
           }
         },
         {
@@ -802,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 987798708,
             "language": null,
             "last_commit": "2026-06-04T18:21:51Z",
             "owner": "rfackroyd",
@@ -814,8 +869,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:53:34.192Z",
+    "last_updated": "2026-08-19T12:25:54.388Z",
     "original_repository": "st0pp3r/awesome-detection-engineer",
+    "original_repository_id": 922591460,
     "original_repository_sha": "77999f0dd5643f35908264bf7fd7c88e3d869e39",
     "enhanced_repository": "enhansome/enhansome-detection-engineer",
     "enhanced_repository_description": null,
