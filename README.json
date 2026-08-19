@@ -12,10 +12,10 @@
             "archived": false,
             "id": 40556106,
             "language": "C++",
-            "last_commit": "2026-08-19T12:12:45Z",
+            "last_commit": "2026-08-19T19:53:09Z",
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16596
+            "stars": 16602
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10906
+            "stars": 10908
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 145183271,
             "language": "Python",
-            "last_commit": "2026-08-19T12:20:53Z",
+            "last_commit": "2026-08-19T18:30:10Z",
             "owner": "Azure",
             "repo": "Azure-Sentinel",
             "stars": 6065
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 273084758,
             "language": "Python",
-            "last_commit": "2026-08-19T12:18:57Z",
+            "last_commit": "2026-08-19T16:02:55Z",
             "owner": "elastic",
             "repo": "detection-rules",
             "stars": 2689
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 162346001,
             "language": "Python",
-            "last_commit": "2026-08-19T12:05:24Z",
+            "last_commit": "2026-08-19T19:29:43Z",
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1675
@@ -150,7 +150,7 @@
             "last_commit": "2026-05-07T13:25:35Z",
             "owner": "FalconForceTeam",
             "repo": "FalconFriday",
-            "stars": 919
+            "stars": 920
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-14T21:13:33Z",
             "owner": "Cyb3r-Monk",
             "repo": "Threat-Hunting-and-Detection",
-            "stars": 823
+            "stars": 824
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-05-21T07:06:55Z",
             "owner": "mdecrevoisier",
             "repo": "SIGMA-detection-rules",
-            "stars": 441
+            "stars": 442
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2024-03-20T20:19:19Z",
             "owner": "OTRF",
             "repo": "Security-Datasets",
-            "stars": 1800
+            "stars": 1802
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2026-03-12T06:57:44Z",
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8207
+            "stars": 8208
           }
         },
         {
@@ -609,10 +609,10 @@
             "archived": false,
             "id": 714666245,
             "language": "Python",
-            "last_commit": "2026-08-18T20:50:49Z",
+            "last_commit": "2026-08-19T19:51:59Z",
             "owner": "eventum-generator",
             "repo": "eventum",
-            "stars": 61
+            "stars": 62
           }
         }
       ],
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-03T16:57:29Z",
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1320
+            "stars": 1321
           }
         },
         {
@@ -869,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:25:54.388Z",
+    "last_updated": "2026-08-19T19:54:54.707Z",
     "original_repository": "st0pp3r/awesome-detection-engineer",
     "original_repository_id": 922591460,
     "original_repository_sha": "77999f0dd5643f35908264bf7fd7c88e3d869e39",
