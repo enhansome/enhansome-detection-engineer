@@ -12,10 +12,10 @@
             "archived": false,
             "id": 40556106,
             "language": "C++",
-            "last_commit": "2026-08-20T19:33:21Z",
+            "last_commit": "2026-08-21T19:46:21Z",
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16616
+            "stars": 16629
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10918
+            "stars": 10924
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 145183271,
             "language": "Python",
-            "last_commit": "2026-08-20T12:12:38Z",
+            "last_commit": "2026-08-21T10:47:06Z",
             "owner": "Azure",
             "repo": "Azure-Sentinel",
-            "stars": 6064
+            "stars": 6066
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 273084758,
             "language": "Python",
-            "last_commit": "2026-08-20T18:31:16Z",
+            "last_commit": "2026-08-21T19:50:11Z",
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2690
+            "stars": 2691
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 162346001,
             "language": "Python",
-            "last_commit": "2026-08-20T14:28:13Z",
+            "last_commit": "2026-08-21T10:21:27Z",
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1675
@@ -210,7 +210,7 @@
             "last_commit": "2026-05-21T07:06:55Z",
             "owner": "mdecrevoisier",
             "repo": "SIGMA-detection-rules",
-            "stars": 442
+            "stars": 444
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2024-11-04T08:32:16Z",
             "owner": "joesecurity",
             "repo": "sigma-rules",
-            "stars": 241
+            "stars": 243
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2026-05-21T07:07:01Z",
             "owner": "mdecrevoisier",
             "repo": "EVTX-to-MITRE-Attack",
-            "stars": 643
+            "stars": 641
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2021-03-18T15:21:47Z",
             "owner": "UraSecTeam",
             "repo": "mordor",
-            "stars": 70
+            "stars": 71
           }
         }
       ],
@@ -492,7 +492,7 @@
             "last_commit": "2026-08-17T18:03:26Z",
             "owner": "redcanaryco",
             "repo": "atomic-red-team",
-            "stars": 12428
+            "stars": 12433
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2026-03-12T06:57:44Z",
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8217
+            "stars": 8222
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2026-08-19T08:42:37Z",
             "owner": "DataDog",
             "repo": "stratus-red-team",
-            "stars": 2374
+            "stars": 2375
           }
         },
         {
@@ -609,7 +609,7 @@
             "archived": false,
             "id": 714666245,
             "language": "Python",
-            "last_commit": "2026-08-20T13:52:08Z",
+            "last_commit": "2026-08-21T17:32:18Z",
             "owner": "eventum-generator",
             "repo": "eventum",
             "stars": 63
@@ -663,7 +663,7 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1890
+            "stars": 1891
           }
         }
       ],
@@ -765,7 +765,7 @@
             "last_commit": "2024-07-06T21:27:28Z",
             "owner": "clong",
             "repo": "DetectionLab",
-            "stars": 5010
+            "stars": 5009
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2026-01-05T12:27:34Z",
             "owner": "0x4D31",
             "repo": "awesome-threat-detection",
-            "stars": 4706
+            "stars": 4707
           }
         },
         {
@@ -869,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:59:04.107Z",
+    "last_updated": "2026-08-21T19:52:48.583Z",
     "original_repository": "st0pp3r/awesome-detection-engineer",
     "original_repository_id": 922591460,
     "original_repository_sha": "77999f0dd5643f35908264bf7fd7c88e3d869e39",
