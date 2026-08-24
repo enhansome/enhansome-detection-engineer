@@ -12,10 +12,10 @@
             "archived": false,
             "id": 40556106,
             "language": "C++",
-            "last_commit": "2026-08-24T14:05:38Z",
+            "last_commit": "2026-08-24T19:47:04Z",
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16660
+            "stars": 16663
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10933
+            "stars": 10935
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T12:03:36Z",
             "owner": "Azure",
             "repo": "Azure-Sentinel",
-            "stars": 6073
+            "stars": 6074
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 273084758,
             "language": "Python",
-            "last_commit": "2026-08-24T14:36:18Z",
+            "last_commit": "2026-08-24T19:49:14Z",
             "owner": "elastic",
             "repo": "detection-rules",
             "stars": 2692
@@ -396,7 +396,7 @@
             "last_commit": "2023-01-24T12:02:51Z",
             "owner": "sbousseaden",
             "repo": "EVTX-ATTACK-SAMPLES",
-            "stars": 2612
+            "stars": 2613
           }
         },
         {
@@ -489,10 +489,10 @@
             "archived": false,
             "id": 106586124,
             "language": "C",
-            "last_commit": "2026-08-24T11:19:06Z",
+            "last_commit": "2026-08-24T15:36:00Z",
             "owner": "redcanaryco",
             "repo": "atomic-red-team",
-            "stars": 12448
+            "stars": 12449
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2026-08-10T00:47:52Z",
             "owner": "olafhartong",
             "repo": "sysmon-modular",
-            "stars": 3119
+            "stars": 3118
           }
         },
         {
@@ -810,7 +810,7 @@
             "last_commit": "2024-11-20T14:06:45Z",
             "owner": "op7ic",
             "repo": "BlueTeam.Lab",
-            "stars": 187
+            "stars": 188
           }
         }
       ],
@@ -831,7 +831,7 @@
             "last_commit": "2026-01-05T12:27:34Z",
             "owner": "0x4D31",
             "repo": "awesome-threat-detection",
-            "stars": 4710
+            "stars": 4711
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-03T16:57:29Z",
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1325
+            "stars": 1326
           }
         },
         {
@@ -869,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:36:51.177Z",
+    "last_updated": "2026-08-24T19:58:50.014Z",
     "original_repository": "st0pp3r/awesome-detection-engineer",
     "original_repository_id": 922591460,
     "original_repository_sha": "353fbc2369439ffe9f2246104519cbd1ee8e9b07",
