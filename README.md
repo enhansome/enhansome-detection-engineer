@@ -33,9 +33,9 @@ Resources are tailored as much as possible to the role of the detection engineer
 
 ### Detection Rules
 
-* [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset) ⭐ 16,709 | 🐛 3,007 | 🌐 C++ | 📅 2026-08-29 - Wazuh ruleset repository.
+* [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset) ⭐ 16,710 | 🐛 3,007 | 🌐 C++ | 📅 2026-08-29 - Wazuh ruleset repository.
 * [Sigma Rules](https://github.com/SigmaHQ/sigma) ⭐ 10,956 | 🐛 209 | 🌐 Python | 📅 2026-08-18 - Huge collection of detection rules from SIGMA HQ.
-* [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) ⭐ 6,080 | 🐛 117 | 🌐 Python | 📅 2026-08-28 and [Sentinel Solution Rules](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions) ⭐ 6,080 | 🐛 117 | 🌐 Python | 📅 2026-08-28- Collection of KQL detection queries for Sentinel.
+* [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) ⭐ 6,080 | 🐛 117 | 🌐 Python | 📅 2026-08-29 and [Sentinel Solution Rules](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions) ⭐ 6,080 | 🐛 117 | 🌐 Python | 📅 2026-08-29- Collection of KQL detection queries for Sentinel.
 * [Elastic Rules](https://www.elastic.co/guide/en/security/current/prebuilt-rules.html), [Elastic Detection Rules Explorer](https://elastic.github.io/detection-rules-explorer) or [Elastic Rules GitHub Repository](https://github.com/elastic/detection-rules/tree/main/rules) ⭐ 2,695 | 🐛 234 | 🌐 Python | 📅 2026-08-29- Elastic's detection rules.
 * [KQL Queries | Bert-JanP](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) ⭐ 1,732 | 🐛 0 | 🌐 Python | 📅 2026-07-23 - Collection of KQL queries.
 * [Splunk Rules](https://research.splunk.com/detections/) and [Splunk Rules GitHub Repository](https://github.com/splunk/security_content/tree/develop/detections) ⭐ 1,679 | 🐛 13 | 🌐 Python | 📅 2026-08-28 - Splunk's detection rules.
@@ -111,7 +111,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 
 ### Logging Configuration and Best Practices
 
-* [Sysmon Configuration | SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config) ⭐ 5,631 | 🐛 82 | 📅 2024-07-03
+* [Sysmon Configuration | SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config) ⭐ 5,632 | 🐛 82 | 📅 2024-07-03
 * [Sysmon Configuration | Olaf Hartong](https://github.com/olafhartong/sysmon-modular) ⭐ 3,119 | 🐛 49 | 🌐 PowerShell | 📅 2026-08-10
 * [Auditd Logging Configuration | Neo23x0](https://github.com/Neo23x0/auditd/blob/master/audit.rules) ⭐ 1,901 | 🐛 18 | 🌐 Shell | 📅 2026-05-04
 * [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
@@ -177,7 +177,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 
 ### Resources
 
-* [DeTT\&CT](https://github.com/rabobank-cdc/DeTTECT/) ⭐ 2,334 | 🐛 16 | 🌐 SCSS | 📅 2026-08-06 - DeTT\&CT aims to assist blue teams in using ATT\&CK to score and compare data log source quality, visibility coverage, detection coverage and threat actor behaviors.
+* [DeTT\&CT](https://github.com/rabobank-cdc/DeTTECT/) ⭐ 2,335 | 🐛 16 | 🌐 SCSS | 📅 2026-08-06 - DeTT\&CT aims to assist blue teams in using ATT\&CK to score and compare data log source quality, visibility coverage, detection coverage and threat actor behaviors.
 * [EDR Telemetry | tsale](https://github.com/tsale/EDR-Telemetry/tree/main) ⭐ 1,981 | 🐛 15 | 🌐 Python | 📅 2026-08-12 - Telemetry comparison and telemetry generator for different EDRs.
 * [Alerting and Detection Strategies (ADS) Framework | Palantir](https://github.com/palantir/alerting-detection-strategy-framework#alerting-and-detection-strategies-framework) ⭐ 902 | 🐛 3 | 📅 2025-09-08- A structured approach to designing and documenting effective detection methodologies.
 * [xCyclopedia](https://github.com/strontic/xcyclopedia) ⭐ 483 | 🐛 4 | 🌐 PowerShell | 📅 2021-11-09 - The xCyclopedia project attempts to document all executable binaries (and eventually scripts) that reside on a typical operating system.

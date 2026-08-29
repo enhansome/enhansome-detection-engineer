@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+            "homepage": "https://wazuh.com/",
             "id": 40556106,
             "language": "C++",
-            "last_commit": "2026-08-29T01:46:20Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:31:35Z",
+            "open_issues": 3007,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16709
+            "stars": 16710,
+            "topics": [
+              "cloud-security",
+              "compliance",
+              "configuration-assessement",
+              "container-security",
+              "cybersecurity",
+              "file-integrity-monitoring",
+              "incident-response",
+              "infosec",
+              "log-analysis",
+              "malware-detection",
+              "pci-dss",
+              "security",
+              "security-audit",
+              "security-automation",
+              "security-hardening",
+              "security-tools",
+              "siem",
+              "vulnerability-detection",
+              "wazuh",
+              "xdr"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -26,12 +52,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Main Sigma Rule Repository",
+            "homepage": "https://sigmahq.io/",
             "id": 77276660,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T23:42:38Z",
+            "open_issues": 209,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10956
+            "stars": 10956,
+            "topics": [
+              "elasticsearch",
+              "ids",
+              "logging",
+              "monitoring",
+              "security",
+              "siem",
+              "signatures",
+              "splunk",
+              "sysmon"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -42,12 +83,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "homepage": "https://azure.microsoft.com/en-us/services/azure-sentinel/",
             "id": 145183271,
             "language": "Python",
-            "last_commit": "2026-08-28T22:36:19Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:03:43Z",
+            "open_issues": 117,
             "owner": "Azure",
             "repo": "Azure-Sentinel",
-            "stars": 6080
+            "stars": 6080,
+            "topics": [
+              "cybersecurity",
+              "sample-code"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -58,12 +107,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://www.elastic.co/guide/en/security/current/detection-engine-overview.html",
             "id": 273084758,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-29T00:40:54Z",
+            "open_issues": 234,
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2695
+            "stars": 2695,
+            "topics": [
+              "threat-detection",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -74,12 +131,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KQL Queries. Defender For Endpoint and Azure Sentinel Hunting and Detection Queries in KQL. Out of the box KQL queries for: Advanced Hunting, Custom Detection, Analytics Rules & Hunting Rules. ",
+            "homepage": "https://kqlquery.com",
             "id": 498037475,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-23T17:56:56Z",
+            "open_issues": 0,
             "owner": "Bert-JanP",
             "repo": "Hunting-Queries-Detection-Rules",
-            "stars": 1732
+            "stars": 1732,
+            "topics": [
+              "azure",
+              "blueteam",
+              "cybersecurity",
+              "defender-for-endpoint",
+              "dfir",
+              "infosec",
+              "kql",
+              "mde",
+              "mdi",
+              "misp",
+              "security",
+              "sentinel",
+              "threat-hunting",
+              "vulnerability-management",
+              "zero-day"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -90,12 +168,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Splunk Security Content",
+            "homepage": "https://research.splunk.com",
             "id": 162346001,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:01:45Z",
+            "open_issues": 13,
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1679
+            "stars": 1679,
+            "topics": [
+              "cicd",
+              "cybersecurity",
+              "detection",
+              "detection-engineering",
+              "engineering",
+              "responses",
+              "splunk"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -106,12 +197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of KQL queries",
+            "homepage": null,
             "id": 394088077,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-29T01:28:08Z",
+            "open_issues": 9,
             "owner": "reprise99",
             "repo": "Sentinel-Queries",
-            "stars": 1646
+            "stars": 1646,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -122,12 +218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elastic Security detection content for Endpoint",
+            "homepage": "https://www.elastic.co/security/endpoint-security",
             "id": 495971687,
             "language": "YARA",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T10:09:02Z",
+            "open_issues": 6,
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1484
+            "stars": 1484,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -138,12 +239,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KQL Queries. Microsoft Defender, Microsoft Sentinel",
+            "homepage": "https://www.linkedin.com/in/0x534c/",
             "id": 837067630,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-14T09:28:03Z",
+            "open_issues": 10,
             "owner": "SlimKQL",
             "repo": "Hunting-Queries-Detection-Rules",
-            "stars": 927
+            "stars": 927,
+            "topics": [
+              "defender",
+              "defenderxdr",
+              "kql",
+              "microsoft",
+              "sentinel",
+              "threatdetection",
+              "threathunting"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -154,12 +268,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hunting queries and detections",
+            "homepage": null,
             "id": 284946983,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-07T13:25:35Z",
+            "open_issues": 2,
             "owner": "FalconForceTeam",
             "repo": "FalconFriday",
-            "stars": 923
+            "stars": 923,
+            "topics": [
+              "blueteam",
+              "defender-atp",
+              "defender-for-endpoint",
+              "hunting",
+              "kql",
+              "purpleteam",
+              "sentinel"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -170,12 +297,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for threat hunting and detection queries, etc. for Defender for Endpoint and Microsoft Sentinel in KQL(Kusto Query Language).",
+            "homepage": "https://academy.bluraven.io",
             "id": 309350249,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-14T21:13:33Z",
+            "open_issues": 0,
             "owner": "Cyb3r-Monk",
             "repo": "Threat-Hunting-and-Detection",
-            "stars": 825
+            "stars": 825,
+            "topics": [
+              "cybersecurity",
+              "defender-for-endpoint",
+              "detection-engineering",
+              "dfir",
+              "kql",
+              "kusto-language",
+              "microsoft-sentinel",
+              "threat-detection",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -186,12 +328,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of KQL queries focused on threat hunting and threat detecting for Microsoft Sentinel & Microsoft XDR (Former Microsoft 365 Defender).",
+            "homepage": null,
             "id": 515552031,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-03T17:41:26Z",
+            "open_issues": 0,
             "owner": "cyb3rmik3",
             "repo": "KQL-threat-hunting-queries",
-            "stars": 795
+            "stars": 795,
+            "topics": [
+              "kql",
+              "kusto",
+              "kusto-query",
+              "kusto-query-language",
+              "microsoft",
+              "microsoft-365",
+              "microsoft-365-defender",
+              "microsoft-365-security",
+              "microsoft-security",
+              "microsoft-sentinel",
+              "microsoft-xdr",
+              "microsoftxdr",
+              "security",
+              "securitycenter",
+              "sentinel",
+              "threat-detecting",
+              "threat-detection",
+              "threat-hunt",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -202,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of example YARA-L rules for use within Google Security Operations",
+            "homepage": "https://cloud.google.com/security/products/security-operations",
             "id": 331114594,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T21:02:46Z",
+            "open_issues": 13,
             "owner": "chronicle",
             "repo": "detection-rules",
-            "stars": 513
+            "stars": 513,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -218,12 +390,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set of SIGMA rules (>350) mapped to MITRE ATT&CK tactic and techniques",
+            "homepage": null,
             "id": 316608551,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-21T07:06:55Z",
+            "open_issues": 2,
             "owner": "mdecrevoisier",
             "repo": "SIGMA-detection-rules",
-            "stars": 444
+            "stars": 444,
+            "topics": [
+              "mitre-attack",
+              "powershell",
+              "sigma",
+              "threat-hunting",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -234,12 +417,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Community Security Analytics provides a set of community-driven audit & threat queries for Google Cloud",
+            "homepage": null,
             "id": 446990881,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-12T14:47:30Z",
+            "open_issues": 4,
             "owner": "GoogleCloudPlatform",
             "repo": "security-analytics",
-            "stars": 370
+            "stars": 370,
+            "topics": [
+              "audit-logs",
+              "bigquery",
+              "chronicle",
+              "cloud-security-command-center",
+              "gcp",
+              "google-cloud",
+              "log-analytics",
+              "logging",
+              "network-analysis",
+              "network-logs",
+              "security",
+              "security-operations",
+              "threat-detection"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -250,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository where I hold random detection and threat hunting queries that I come up with based on different sources of information (or even inspiration).",
+            "homepage": null,
             "id": 838381921,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-23T23:23:08Z",
+            "open_issues": 0,
             "owner": "SecurityAura",
             "repo": "DE-TH-Aura",
-            "stars": 289
+            "stars": 289,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -266,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sigma rules from Joe Security",
+            "homepage": null,
             "id": 218000702,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2024-11-04T08:32:16Z",
+            "open_issues": 7,
             "owner": "joesecurity",
             "repo": "sigma-rules",
-            "stars": 243
+            "stars": 243,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -282,12 +494,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated Windows event log Sigma rules used in Hayabusa and Velociraptor.",
+            "homepage": null,
             "id": 436824802,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T20:14:06Z",
+            "open_issues": 3,
             "owner": "Yamato-Security",
             "repo": "hayabusa-rules",
-            "stars": 222
+            "stars": 222,
+            "topics": [
+              "analysis",
+              "attack",
+              "dfir",
+              "event",
+              "hayabusa",
+              "log",
+              "mitre",
+              "sigma",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -298,12 +525,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of my own Sigma detection rules.",
+            "homepage": null,
             "id": 561884007,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2025-11-25T21:21:50Z",
+            "open_issues": 1,
             "owner": "mbabinski",
             "repo": "Sigma-Rules",
-            "stars": 167
+            "stars": 167,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -314,12 +546,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sigma rules to share with the community",
+            "homepage": null,
             "id": 446721298,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-29T17:41:49Z",
+            "open_issues": 0,
             "owner": "tsale",
             "repo": "Sigma_rules",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -330,12 +567,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anvilogic Forge",
+            "homepage": "https://www.anvilogic.com",
             "id": 753190239,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-03-31T12:19:58Z",
+            "open_issues": 0,
             "owner": "anvilogic-forge",
             "repo": "armory",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "detection",
+              "detection-engineering",
+              "snowflake",
+              "splunk",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -346,12 +594,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hunting Queries for Defender ATP",
+            "homepage": null,
             "id": 690383249,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-07-07T10:17:09Z",
+            "open_issues": 1,
             "owner": "0xAnalyst",
             "repo": "DefenderATPQueries",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "defender-atp",
+              "detection-engineering",
+              "detection-rules",
+              "kql",
+              "microsoft",
+              "sentinel",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -362,12 +623,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sigma detection rules for hunting with the threathunting-keywords project",
+            "homepage": null,
             "id": 673723033,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-02T22:34:34Z",
+            "open_issues": 0,
             "owner": "mthcht",
             "repo": "ThreatHunting-Keywords-sigma-rules",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "blueteam",
+              "detection-engineering",
+              "detection-rules",
+              "dfir",
+              "forensicartifacts",
+              "mitre-attack",
+              "siem",
+              "sigma-rules",
+              "threat-detection",
+              "threat-hunting",
+              "threathunting"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -378,12 +656,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 778723619,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-24T09:19:13Z",
+            "open_issues": 0,
             "owner": "Inovasys-CS",
             "repo": "EDI",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -394,12 +677,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of Sigma Rules",
+            "homepage": null,
             "id": 724419191,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-20T03:40:16Z",
+            "open_issues": 0,
             "owner": "pandare9x",
             "repo": "Sigma-Rules",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "malware-detection",
+              "malware-research",
+              "sigma-rules",
+              "technique-detection"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         }
@@ -416,12 +709,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows Events Attack Samples",
+            "homepage": "https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES",
             "id": 175782105,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2023-01-24T12:02:51Z",
+            "open_issues": 5,
             "owner": "sbousseaden",
             "repo": "EVTX-ATTACK-SAMPLES",
-            "stars": 2616
+            "stars": 2616,
+            "topics": [
+              "dataset",
+              "detection-engineering",
+              "dfir",
+              "evtx",
+              "mitre-attack",
+              "threat-hunting",
+              "windows-security",
+              "winlogbeat"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -432,12 +739,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Re-play Security Events",
+            "homepage": null,
             "id": 135628483,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2024-03-20T20:19:19Z",
+            "open_issues": 13,
             "owner": "OTRF",
             "repo": "Security-Datasets",
-            "stars": 1807
+            "stars": 1807,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -448,12 +760,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of curated datasets from various attacks",
+            "homepage": null,
             "id": 281495346,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:28:17Z",
+            "open_issues": 3,
             "owner": "splunk",
             "repo": "attack_data",
-            "stars": 809
+            "stars": 809,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -464,12 +781,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set of EVTX samples (>270) mapped to MITRE ATT&CK tactic and techniques to measure your SIEM coverage or developed new use cases.",
+            "homepage": null,
             "id": 278452836,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-21T07:07:01Z",
+            "open_issues": 0,
             "owner": "mdecrevoisier",
             "repo": "EVTX-to-MITRE-Attack",
-            "stars": 641
+            "stars": 641,
+            "topics": [
+              "evtx",
+              "mitre-attack",
+              "redteam",
+              "siem",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -480,12 +808,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PCAP Samples for Different Post Exploitation Techniques ",
+            "homepage": null,
             "id": 280750641,
             "language": null,
+            "license": null,
             "last_commit": "2021-04-29T23:39:40Z",
+            "open_issues": 2,
             "owner": "sbousseaden",
             "repo": "PCAP-ATTACK",
-            "stars": 375
+            "stars": 375,
+            "topics": [
+              "detection",
+              "mitre-attack",
+              "pcap-files",
+              "pcapng",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -496,12 +835,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Re-play Adversarial Techniques",
+            "homepage": null,
             "id": 350527026,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2021-03-18T15:21:47Z",
+            "open_issues": 0,
             "owner": "UraSecTeam",
             "repo": "mordor",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         }
@@ -518,12 +862,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+            "homepage": null,
             "id": 106586124,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-28T01:43:13Z",
+            "open_issues": 30,
             "owner": "redcanaryco",
             "repo": "atomic-red-team",
-            "stars": 12462
+            "stars": 12462,
+            "topics": [
+              "mitre",
+              "mitre-attack"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -534,12 +886,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "game of active directory",
+            "homepage": null,
             "id": 410808925,
             "language": "PowerShell",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-12T06:57:44Z",
+            "open_issues": 150,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8247
+            "stars": 8247,
+            "topics": [
+              "active-directory",
+              "ansible",
+              "infrastructure-as-code",
+              "pentest",
+              "terraform",
+              "vagrant"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -550,12 +914,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Infection Monkey - An open-source adversary emulation platform",
+            "homepage": "https://www.guardicore.com/infectionmonkey/",
             "id": 41620215,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-01T13:34:05Z",
+            "open_issues": 240,
             "owner": "guardicore",
             "repo": "monkey",
-            "stars": 7078
+            "stars": 7078,
+            "topics": [
+              "adversary-emulation",
+              "infection-monkey",
+              "penetration-testing",
+              "security-automation",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -566,12 +941,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolset to make a system look as if it was the victim of an APT attack",
+            "homepage": "https://www.nextron-systems.com",
             "id": 120097644,
             "language": "Batchfile",
+            "license": "MIT",
             "last_commit": "2025-09-23T10:20:43Z",
+            "open_issues": 4,
             "owner": "NextronSystems",
             "repo": "APTSimulator",
-            "stars": 2764
+            "stars": 2764,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -582,12 +962,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud",
+            "homepage": "https://stratus-red-team.cloud",
             "id": 445524190,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T15:00:25Z",
+            "open_issues": 67,
             "owner": "DataDog",
             "repo": "stratus-red-team",
-            "stars": 2379
+            "stars": 2379,
+            "topics": [
+              "adversary-emulation",
+              "aws",
+              "aws-security",
+              "azure-security",
+              "cloud-native-security",
+              "cloud-security",
+              "detection-engineering",
+              "gcp-security",
+              "kubernetes-security",
+              "mitre-attack",
+              "purple-team",
+              "security",
+              "threat-detection"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -598,12 +997,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility to safely generate malicious network traffic patterns and evaluate controls.",
+            "homepage": "https://alphasoc.com",
             "id": 116955127,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-04T11:25:53Z",
+            "open_issues": 24,
             "owner": "alphasoc",
             "repo": "flightsim",
-            "stars": 1363
+            "stars": 1363,
+            "topics": [
+              "intrusion-detection",
+              "monitoring",
+              "security",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -614,12 +1023,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility to safely generate malicious network traffic patterns and evaluate controls.",
+            "homepage": "https://alphasoc.com",
             "id": 116955127,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-04T11:25:53Z",
+            "open_issues": 24,
             "owner": "alphasoc",
             "repo": "flightsim",
-            "stars": 1363
+            "stars": 1363,
+            "topics": [
+              "intrusion-detection",
+              "monitoring",
+              "security",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -630,12 +1049,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test Blue Team detections without running any attack.",
+            "homepage": null,
             "id": 131503323,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2024-05-02T13:32:00Z",
+            "open_issues": 3,
             "owner": "n0dec",
             "repo": "MalwLess",
-            "stars": 271
+            "stars": 271,
+            "topics": [
+              "blueteam",
+              "dfir",
+              "hacktoberfest",
+              "mitre-attack",
+              "powershell",
+              "redteam",
+              "siem",
+              "sysmon"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -646,12 +1079,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Realistic synthetic events for testing, demos, and pipelines — streamed live or generated in bulk",
+            "homepage": "https://eventum.run",
             "id": 714666245,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T02:19:50Z",
+            "open_issues": 4,
             "owner": "eventum-generator",
             "repo": "eventum",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "clickhouse",
+              "data-engineering",
+              "data-generation",
+              "devops",
+              "elasticsearch",
+              "fake-data",
+              "load-testing",
+              "log-generator",
+              "logs",
+              "mock-data",
+              "observability",
+              "opensearch",
+              "python",
+              "siem",
+              "sre",
+              "synthetic-data",
+              "test-data",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         }
@@ -668,12 +1125,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sysmon configuration file template with default high-quality event tracing",
+            "homepage": null,
             "id": 80652174,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-03T17:26:43Z",
+            "open_issues": 82,
             "owner": "SwiftOnSecurity",
             "repo": "sysmon-config",
-            "stars": 5631
+            "stars": 5632,
+            "topics": [
+              "logging",
+              "monitoring",
+              "netsec",
+              "sysinternals",
+              "sysmon",
+              "threat-hunting",
+              "threatintel",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -684,12 +1155,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of sysmon configuration modules",
+            "homepage": null,
             "id": 117379388,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-08-10T00:47:52Z",
+            "open_issues": 49,
             "owner": "olafhartong",
             "repo": "sysmon-modular",
-            "stars": 3119
+            "stars": 3119,
+            "topics": [
+              "dfir",
+              "mitre-attack",
+              "modular",
+              "security-tools",
+              "sysmon",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -700,12 +1183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Best Practice Auditd Configuration",
+            "homepage": null,
             "id": 150223220,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-04T12:02:04Z",
+            "open_issues": 18,
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1901
+            "stars": 1901,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         }
@@ -722,12 +1210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detect Tactics, Techniques & Combat Threats",
+            "homepage": null,
             "id": 178419209,
             "language": "SCSS",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-06T01:26:07Z",
+            "open_issues": 16,
             "owner": "rabobank-cdc",
             "repo": "DeTTECT",
-            "stars": 2334
+            "stars": 2335,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -738,12 +1231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project aims to compare and evaluate the telemetry of various EDR products.",
+            "homepage": "https://edr-telemetry.com",
             "id": 622335595,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-12T07:33:56Z",
+            "open_issues": 15,
             "owner": "tsale",
             "repo": "EDR-Telemetry",
-            "stars": 1981
+            "stars": 1981,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -754,12 +1252,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for developing alerting and detection strategies for incident response.",
+            "homepage": null,
             "id": 114705352,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-09-08T18:00:25Z",
+            "open_issues": 3,
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 902
+            "stars": 902,
+            "topics": [
+              "octo-correct-managed"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -770,12 +1275,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Encyclopedia for Executables",
+            "homepage": "https://strontic.github.io/xcyclopedia",
             "id": 267436946,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2021-11-09T01:39:51Z",
+            "open_issues": 4,
             "owner": "strontic",
             "repo": "xcyclopedia",
-            "stars": 483
+            "stars": 483,
+            "topics": [
+              "command-line",
+              "exe",
+              "executable",
+              "lolbins",
+              "siem",
+              "soar",
+              "ssdeep"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -786,12 +1304,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework and taxonomy for identifying, classifying, and reasoning about detection logic bugs in SIEM, EDR, and XDR rules, with concrete examples and real-world bypasses.",
+            "homepage": null,
             "id": 1146593546,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-05T09:15:38Z",
+            "open_issues": 0,
             "owner": "Adversarial-Detection-Engineering",
             "repo": "Adversarial-Detection-Engineering-Framework",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         }
@@ -808,12 +1331,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automate the creation of a lab environment complete with security tooling and logging best practices",
+            "homepage": null,
             "id": 86134528,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-07-06T21:27:28Z",
+            "open_issues": 42,
             "owner": "clong",
             "repo": "DetectionLab",
-            "stars": 5011
+            "stars": 5011,
+            "topics": [
+              "ansible",
+              "detection",
+              "detectionlab",
+              "dfir",
+              "dfir-automation",
+              "information-security",
+              "lab-environment",
+              "osquery",
+              "packer",
+              "powershell",
+              "sysmon",
+              "terraform",
+              "vagrant",
+              "vagrantfile"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -824,12 +1367,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk ",
+            "homepage": null,
             "id": 184844805,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T06:23:16Z",
+            "open_issues": 20,
             "owner": "splunk",
             "repo": "attack_range",
-            "stars": 2546
+            "stars": 2546,
+            "topics": [
+              "adversary",
+              "attack-range",
+              "attack-simulation",
+              "detection",
+              "lab",
+              "simulation",
+              "simulations"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -840,12 +1396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules and undertake various security tasks, all accessible through a user-friendly web interface",
+            "homepage": null,
             "id": 636264898,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-22T17:27:26Z",
+            "open_issues": 15,
             "owner": "Krook9d",
             "repo": "PurpleLab",
-            "stars": 746
+            "stars": 746,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -856,12 +1417,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blue Team detection lab created with Terraform and Ansible in Azure. ",
+            "homepage": null,
             "id": 446330166,
             "language": "Jinja",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-20T14:06:45Z",
+            "open_issues": 1,
             "owner": "op7ic",
             "repo": "BlueTeam.Lab",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "blueteam",
+              "lab",
+              "redteam"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         }
@@ -878,12 +1448,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️",
+            "homepage": "https://0x4d31.github.io/awesome-threat-detection/",
             "id": 117328645,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-05T12:27:34Z",
+            "open_issues": 54,
             "owner": "0x4D31",
             "repo": "awesome-threat-detection",
-            "stars": 4711
+            "stars": 4711,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "detection",
+              "incident-response",
+              "security",
+              "threat-detection",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -894,12 +1477,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.",
+            "homepage": null,
             "id": 298706027,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-03T16:57:29Z",
+            "open_issues": 8,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1333
+            "stars": 1333,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cybersecurity",
+              "detection-engineering",
+              "mitre",
+              "splunk",
+              "threat-detection"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         },
@@ -910,12 +1506,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A starter pack of resources to help you get started in Detection Engineering.",
+            "homepage": null,
             "id": 987798708,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-04T18:21:51Z",
+            "open_issues": 4,
             "owner": "rfackroyd",
             "repo": "detection-engineering-starter-pack",
-            "stars": 195
+            "stars": 195,
+            "topics": [
+              "detection",
+              "detection-engineering",
+              "threat-detection",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
         }
@@ -924,15 +1530,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:25:38.345Z",
+    "last_updated": "2026-08-29T04:56:09.641Z",
     "original_repository_info": {
       "archived": false,
+      "description": " Online resources related to Detection Engineering. Detection rules, detection logic, attack samples, detection tests and emulation tools, logging configuration and best practices, event log references, resources, labs, data manipulation online tools, blogs, newsletters, good reads, books, trainings, podcasts, videos and twitter/x accounts.",
+      "homepage": null,
       "id": 922591460,
       "language": "HTML",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-22T10:40:10Z",
+      "open_issues": 3,
       "owner": "st0pp3r",
       "repo": "awesome-detection-engineer",
-      "stars": 180
+      "stars": 180,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cybesecurity",
+        "detection",
+        "detection-engineering",
+        "security",
+        "soc",
+        "threat-detection"
+      ]
     },
     "original_repository_sha": "353fbc2369439ffe9f2246104519cbd1ee8e9b07",
     "enhanced_repository": "enhansome/enhansome-detection-engineer",
