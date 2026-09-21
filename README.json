@@ -15,11 +15,11 @@
             "id": 40556106,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T04:02:09Z",
-            "open_issues": 3099,
+            "last_commit": "2026-09-21T22:12:09Z",
+            "open_issues": 3132,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16942,
+            "stars": 16957,
             "topics": [
               "cloud-security",
               "compliance",
@@ -57,11 +57,11 @@
             "id": 77276660,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T07:19:41Z",
-            "open_issues": 217,
+            "last_commit": "2026-09-21T08:19:27Z",
+            "open_issues": 219,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 11069,
+            "stars": 11073,
             "topics": [
               "elasticsearch",
               "ids",
@@ -88,11 +88,11 @@
             "id": 145183271,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-20T04:04:06Z",
-            "open_issues": 119,
+            "last_commit": "2026-09-21T19:59:10Z",
+            "open_issues": 113,
             "owner": "Azure",
             "repo": "Azure-Sentinel",
-            "stars": 6138,
+            "stars": 6139,
             "topics": [
               "cybersecurity",
               "sample-code"
@@ -112,11 +112,11 @@
             "id": 273084758,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T18:27:53Z",
-            "open_issues": 238,
+            "last_commit": "2026-09-21T21:07:36Z",
+            "open_issues": 245,
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2698,
+            "stars": 2700,
             "topics": [
               "threat-detection",
               "threat-hunting"
@@ -140,7 +140,7 @@
             "open_issues": 0,
             "owner": "Bert-JanP",
             "repo": "Hunting-Queries-Detection-Rules",
-            "stars": 1751,
+            "stars": 1752,
             "topics": [
               "azure",
               "blueteam",
@@ -173,8 +173,8 @@
             "id": 162346001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T22:52:39Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-21T18:34:30Z",
+            "open_issues": 9,
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1696,
@@ -223,8 +223,8 @@
             "id": 495971687,
             "language": "YARA",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T03:18:53Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-21T10:09:52Z",
+            "open_issues": 9,
             "owner": "elastic",
             "repo": "protections-artifacts",
             "stars": 1495,
@@ -277,7 +277,7 @@
             "open_issues": 2,
             "owner": "FalconForceTeam",
             "repo": "FalconFriday",
-            "stars": 923,
+            "stars": 924,
             "topics": [
               "blueteam",
               "defender-atp",
@@ -748,7 +748,7 @@
             "open_issues": 14,
             "owner": "OTRF",
             "repo": "Security-Datasets",
-            "stars": 1818,
+            "stars": 1819,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
@@ -765,11 +765,11 @@
             "id": 281495346,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T14:36:00Z",
+            "last_commit": "2026-09-21T12:50:19Z",
             "open_issues": 2,
             "owner": "splunk",
             "repo": "attack_data",
-            "stars": 819,
+            "stars": 820,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
@@ -871,7 +871,7 @@
             "open_issues": 32,
             "owner": "redcanaryco",
             "repo": "atomic-red-team",
-            "stars": 12564,
+            "stars": 12570,
             "topics": [
               "mitre",
               "mitre-attack"
@@ -892,10 +892,10 @@
             "language": "PowerShell",
             "license": "GPL-3.0",
             "last_commit": "2026-03-12T06:57:44Z",
-            "open_issues": 153,
+            "open_issues": 154,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8357,
+            "stars": 8365,
             "topics": [
               "active-directory",
               "ansible",
@@ -923,7 +923,7 @@
             "open_issues": 240,
             "owner": "guardicore",
             "repo": "monkey",
-            "stars": 7092,
+            "stars": 7093,
             "topics": [
               "adversary-emulation",
               "infection-monkey",
@@ -967,7 +967,7 @@
             "id": 445524190,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T18:38:31Z",
+            "last_commit": "2026-09-21T21:01:00Z",
             "open_issues": 74,
             "owner": "DataDog",
             "repo": "stratus-red-team",
@@ -1134,7 +1134,7 @@
             "open_issues": 82,
             "owner": "SwiftOnSecurity",
             "repo": "sysmon-config",
-            "stars": 5653,
+            "stars": 5655,
             "topics": [
               "logging",
               "monitoring",
@@ -1164,7 +1164,7 @@
             "open_issues": 49,
             "owner": "olafhartong",
             "repo": "sysmon-modular",
-            "stars": 3137,
+            "stars": 3139,
             "topics": [
               "dfir",
               "mitre-attack",
@@ -1192,7 +1192,7 @@
             "open_issues": 19,
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1942,
+            "stars": 1943,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
@@ -1261,7 +1261,7 @@
             "open_issues": 3,
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 907,
+            "stars": 908,
             "topics": [
               "octo-correct-managed"
             ]
@@ -1340,7 +1340,7 @@
             "open_issues": 42,
             "owner": "clong",
             "repo": "DetectionLab",
-            "stars": 5025,
+            "stars": 5027,
             "topics": [
               "ansible",
               "detection",
@@ -1454,7 +1454,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-01-05T12:27:34Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "0x4D31",
             "repo": "awesome-threat-detection",
             "stars": 4729,
@@ -1486,7 +1486,7 @@
             "open_issues": 12,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1343,
+            "stars": 1345,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1530,7 +1530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T21:47:25.138Z",
+    "last_updated": "2026-09-21T22:48:11.937Z",
     "original_repository_info": {
       "archived": false,
       "description": " Online resources related to Detection Engineering. Detection rules, detection logic, attack samples, detection tests and emulation tools, logging configuration and best practices, event log references, resources, labs, data manipulation online tools, blogs, newsletters, good reads, books, trainings, podcasts, videos and twitter/x accounts.",
