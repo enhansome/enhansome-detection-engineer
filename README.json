@@ -15,11 +15,11 @@
             "id": 40556106,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T00:29:03Z",
-            "open_issues": 3142,
+            "last_commit": "2026-10-03T05:53:55Z",
+            "open_issues": 3143,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 17069,
+            "stars": 17079,
             "topics": [
               "cloud-security",
               "compliance",
@@ -58,10 +58,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T11:46:32Z",
-            "open_issues": 232,
+            "open_issues": 235,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 11147,
+            "stars": 11148,
             "topics": [
               "elasticsearch",
               "ids",
@@ -89,10 +89,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-03T04:09:34Z",
-            "open_issues": 108,
+            "open_issues": 109,
             "owner": "Azure",
             "repo": "Azure-Sentinel",
-            "stars": 6156,
+            "stars": 6157,
             "topics": [
               "cybersecurity",
               "sample-code"
@@ -113,10 +113,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T23:21:37Z",
-            "open_issues": 253,
+            "open_issues": 254,
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2706,
+            "stars": 2707,
             "topics": [
               "threat-detection",
               "threat-hunting"
@@ -177,7 +177,7 @@
             "open_issues": 27,
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1701,
+            "stars": 1702,
             "topics": [
               "cicd",
               "cybersecurity",
@@ -871,7 +871,7 @@
             "open_issues": 39,
             "owner": "redcanaryco",
             "repo": "atomic-red-team",
-            "stars": 12604,
+            "stars": 12607,
             "topics": [
               "mitre",
               "mitre-attack"
@@ -895,7 +895,7 @@
             "open_issues": 152,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8408,
+            "stars": 8419,
             "topics": [
               "active-directory",
               "ansible",
@@ -971,7 +971,7 @@
             "open_issues": 73,
             "owner": "DataDog",
             "repo": "stratus-red-team",
-            "stars": 2416,
+            "stars": 2417,
             "topics": [
               "adversary-emulation",
               "aws",
@@ -1134,7 +1134,7 @@
             "open_issues": 83,
             "owner": "SwiftOnSecurity",
             "repo": "sysmon-config",
-            "stars": 5669,
+            "stars": 5670,
             "topics": [
               "logging",
               "monitoring",
@@ -1313,7 +1313,7 @@
             "open_issues": 0,
             "owner": "Adversarial-Detection-Engineering",
             "repo": "Adversarial-Detection-Engineering-Framework",
-            "stars": 62,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
@@ -1340,7 +1340,7 @@
             "open_issues": 42,
             "owner": "clong",
             "repo": "DetectionLab",
-            "stars": 5029,
+            "stars": 5030,
             "topics": [
               "ansible",
               "detection",
@@ -1454,7 +1454,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-01-05T12:27:34Z",
-            "open_issues": 61,
+            "open_issues": 60,
             "owner": "0x4D31",
             "repo": "awesome-threat-detection",
             "stars": 4737,
@@ -1530,7 +1530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:39:39.753Z",
+    "last_updated": "2026-10-03T22:24:07.339Z",
     "original_repository_info": {
       "archived": false,
       "description": " Online resources related to Detection Engineering. Detection rules, detection logic, attack samples, detection tests and emulation tools, logging configuration and best practices, event log references, resources, labs, data manipulation online tools, blogs, newsletters, good reads, books, trainings, podcasts, videos and twitter/x accounts.",
