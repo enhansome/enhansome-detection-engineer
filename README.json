@@ -15,11 +15,11 @@
             "id": 40556106,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T22:54:56Z",
+            "last_commit": "2026-10-03T00:29:03Z",
             "open_issues": 3142,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 17068,
+            "stars": 17069,
             "topics": [
               "cloud-security",
               "compliance",
@@ -61,7 +61,7 @@
             "open_issues": 232,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 11144,
+            "stars": 11147,
             "topics": [
               "elasticsearch",
               "ids",
@@ -88,7 +88,7 @@
             "id": 145183271,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:46:24Z",
+            "last_commit": "2026-10-03T04:09:34Z",
             "open_issues": 108,
             "owner": "Azure",
             "repo": "Azure-Sentinel",
@@ -112,7 +112,7 @@
             "id": 273084758,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T22:33:13Z",
+            "last_commit": "2026-10-02T23:21:37Z",
             "open_issues": 253,
             "owner": "elastic",
             "repo": "detection-rules",
@@ -895,7 +895,7 @@
             "open_issues": 152,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8402,
+            "stars": 8408,
             "topics": [
               "active-directory",
               "ansible",
@@ -1121,7 +1121,7 @@
         {
           "node_type": "item",
           "title": "Sysmon Configuration | SwiftOnSecurity",
-          "description": null,
+          "description": "SwiftOnSecurity/sysmon-config",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1151,7 +1151,7 @@
         {
           "node_type": "item",
           "title": "Sysmon Configuration | Olaf Hartong",
-          "description": null,
+          "description": "olafhartong/sysmon-modular",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1179,7 +1179,7 @@
         {
           "node_type": "item",
           "title": "Auditd Logging Configuration | Neo23x0",
-          "description": null,
+          "description": "Neo23x0/auditd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1327,7 +1327,7 @@
         {
           "node_type": "item",
           "title": "Detection LAB",
-          "description": null,
+          "description": "clong/DetectionLab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1363,7 +1363,7 @@
         {
           "node_type": "item",
           "title": "Splunk Attack Range",
-          "description": null,
+          "description": "splunk/attack_range",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1392,7 +1392,7 @@
         {
           "node_type": "item",
           "title": "PurpleLab",
-          "description": null,
+          "description": "Krook9d/PurpleLab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1413,7 +1413,7 @@
         {
           "node_type": "item",
           "title": "BlueTeam.Lab",
-          "description": null,
+          "description": "op7ic/BlueTeam.Lab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1444,7 +1444,7 @@
         {
           "node_type": "item",
           "title": "Awesome Threat Detection | 0x4D31",
-          "description": null,
+          "description": "0x4D31/awesome-threat-detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1473,7 +1473,7 @@
         {
           "node_type": "item",
           "title": "Awesome Detection Engineering | infosecB",
-          "description": null,
+          "description": "infosecB/awesome-detection-engineering",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1502,7 +1502,7 @@
         {
           "node_type": "item",
           "title": "Detection Engineering Starter Pack | rfackroyd",
-          "description": null,
+          "description": "rfackroyd/detection-engineering-starter-pack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1530,7 +1530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:13:25.009Z",
+    "last_updated": "2026-10-03T04:39:39.753Z",
     "original_repository_info": {
       "archived": false,
       "description": " Online resources related to Detection Engineering. Detection rules, detection logic, attack samples, detection tests and emulation tools, logging configuration and best practices, event log references, resources, labs, data manipulation online tools, blogs, newsletters, good reads, books, trainings, podcasts, videos and twitter/x accounts.",

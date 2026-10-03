@@ -1,6 +1,6 @@
 # Awesome Detection Engineer with stars
 
-[![URL Check](https://github.com/st0pp3r/Awesome-Detection-Engineer/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/Awesome-Detection-Engineer/actions/workflows/url_check.yml) ⭐ 184 | 🐛 4 | 🌐 HTML | 📅 2026-08-22 [![Create Bookmarks File](https://github.com/st0pp3r/Awesome-Detection-Engineer/actions/workflows/create_bookmarks.yml/badge.svg)](https://github.com/st0pp3r/Awesome-Detection-Engineer/actions/workflows/create_bookmarks.yml) ⭐ 184 | 🐛 4 | 🌐 HTML | 📅 2026-08-22[![Spell Check](https://github.com/st0pp3r/awesome-detection-engineer/actions/workflows/spell_check.yml/badge.svg)](https://github.com/st0pp3r/awesome-detection-engineer/actions/workflows/spell_check.yml) ⭐ 184 | 🐛 4 | 🌐 HTML | 📅 2026-08-22
+[![URL Check](https://github.com/st0pp3r/Awesome-Detection-Engineer/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/Awesome-Detection-Engineer/actions/workflows/url_check.yml) [![Create Bookmarks File](https://github.com/st0pp3r/Awesome-Detection-Engineer/actions/workflows/create_bookmarks.yml/badge.svg)](https://github.com/st0pp3r/Awesome-Detection-Engineer/actions/workflows/create_bookmarks.yml)[![Spell Check](https://github.com/st0pp3r/awesome-detection-engineer/actions/workflows/spell_check.yml/badge.svg)](https://github.com/st0pp3r/awesome-detection-engineer/actions/workflows/spell_check.yml)
 
 Online resources for Detection Engineers. Detection rules, detection logic, attack samples, detection tests and emulation tools, logging configuration and best practices, event log references, resources, labs, data manipulation online tools, blogs, newsletters, good reads, books, trainings, podcasts, videos and twitter/x accounts.
 The repo generates a bookmark file for easy import to your browser.
@@ -33,9 +33,9 @@ Resources are tailored as much as possible to the role of the detection engineer
 
 ### Detection Rules
 
-* [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset) ⭐ 17,068 | 🐛 3,142 | 🌐 C++ | 📅 2026-10-02 - Wazuh ruleset repository.
-* [Sigma Rules](https://github.com/SigmaHQ/sigma) ⭐ 11,144 | 🐛 232 | 🌐 Python | 📅 2026-10-02 - Huge collection of detection rules from SIGMA HQ.
-* [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) ⭐ 6,156 | 🐛 108 | 🌐 Python | 📅 2026-10-02 and [Sentinel Solution Rules](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions) ⭐ 6,156 | 🐛 108 | 🌐 Python | 📅 2026-10-02- Collection of KQL detection queries for Sentinel.
+* [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset) ⭐ 17,069 | 🐛 3,142 | 🌐 C++ | 📅 2026-10-03 - Wazuh ruleset repository.
+* [Sigma Rules](https://github.com/SigmaHQ/sigma) ⭐ 11,147 | 🐛 232 | 🌐 Python | 📅 2026-10-02 - Huge collection of detection rules from SIGMA HQ.
+* [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) ⭐ 6,156 | 🐛 108 | 🌐 Python | 📅 2026-10-03 and [Sentinel Solution Rules](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions) ⭐ 6,156 | 🐛 108 | 🌐 Python | 📅 2026-10-03- Collection of KQL detection queries for Sentinel.
 * [Elastic Rules](https://www.elastic.co/guide/en/security/current/prebuilt-rules.html), [Elastic Detection Rules Explorer](https://elastic.github.io/detection-rules-explorer) or [Elastic Rules GitHub Repository](https://github.com/elastic/detection-rules/tree/main/rules) ⭐ 2,706 | 🐛 253 | 🌐 Python | 📅 2026-10-02- Elastic's detection rules.
 * [KQL Queries | Bert-JanP](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) ⭐ 1,755 | 🐛 0 | 🌐 Python | 📅 2026-09-28 - Collection of KQL queries.
 * [Splunk Rules](https://research.splunk.com/detections/) and [Splunk Rules GitHub Repository](https://github.com/splunk/security_content/tree/develop/detections) ⭐ 1,701 | 🐛 27 | 🌐 Python | 📅 2026-10-02 - Splunk's detection rules.
@@ -74,7 +74,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 * [Active Directory Detection Logic | Picus](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf) - Handbook with active directory attack descriptions and detection recommendations.
 * [Antivirus Cheatsheet | Nextron Systems](https://www.nextron-systems.com/?s=antivirus) - Antivirus keywords and detection logic from Nextron.
 * [Detecting the Elusive Active Directory Threat Hunting](https://adsecurity.org/wp-content/uploads/2017/04/2017-BSidesCharm-DetectingtheElusive-ActiveDirectoryThreatHunting-Final.pdf) - Bsides presentation that includes detection logic for active directory attacks.
-* [Awesome Lists | mthcht](https://github.com/mthcht/awesome-lists/tree/main/Lists) ⭐ 1,932 | 🐛 28 | 🌐 YARA | 📅 2026-10-02 - Includes keywords, paths from various tools that can be used to implement detection logic.
+* [Awesome Lists | mthcht](https://github.com/mthcht/awesome-lists/tree/main/Lists) ⭐ 1,933 | 🐛 28 | 🌐 YARA | 📅 2026-10-03 - Includes keywords, paths from various tools that can be used to implement detection logic.
 * [Active Directory Security (adsecurity.org)](https://adsecurity.org/?page_id=4031) - Page dedicated to Active Directory security. Includes attack descriptions and detection recommendations.
 * [Tool Analysis Results Sheet | jpcertcc](https://jpcertcc.github.io/ToolAnalysisResultSheet) - Results of examining logs recorded in Windows upon execution of 49 tools.
 * [Offensive Kerberos Techniques for Detection Engineering | Noah](https://medium.com/@noah_h/offensive-kerberos-techniques-for-detection-engineering-16a81483f676)
@@ -94,7 +94,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 ### Detection Tests and Emulation Tools
 
 * [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) ⭐ 12,604 | 🐛 39 | 🌐 C | 📅 2026-09-28 - Tests mapped to the MITRE ATT\&CK framework.
-* [Game of Active Directory Lab | Orange CyberDefense](https://github.com/Orange-Cyberdefense/GOAD) ⭐ 8,402 | 🐛 152 | 🌐 PowerShell | 📅 2026-03-12 -The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.
+* [Game of Active Directory Lab | Orange CyberDefense](https://github.com/Orange-Cyberdefense/GOAD) ⭐ 8,408 | 🐛 152 | 🌐 PowerShell | 📅 2026-03-12 -The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.
 * [Infection Monkey](https://github.com/guardicore/monkey#infection-monkey) ⭐ 7,096 | 🐛 240 | 🌐 Python | 📅 2025-05-01 - Open-source adversary emulation platform.
 * [APT Simulator](https://github.com/NextronSystems/APTSimulator#apt-simulator) ⭐ 2,775 | 🐛 4 | 🌐 Batchfile | 📅 2025-09-23 - Windows batch script that uses a set of tools and output files to make a system look as if it was compromised.
 * [Stratus Red Team | DataDog](https://github.com/DataDog/stratus-red-team) ⭐ 2,416 | 🐛 73 | 🌐 Go | 📅 2026-10-01 - Similar to red team atomics but for cloud.
@@ -326,4 +326,4 @@ Resources are tailored as much as possible to the role of the detection engineer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
