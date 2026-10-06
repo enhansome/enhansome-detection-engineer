@@ -33,12 +33,12 @@ Resources are tailored as much as possible to the role of the detection engineer
 
 ### Detection Rules
 
-* [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset) ⭐ 17,129 | 🐛 3,194 | 🌐 C++ | 📅 2026-10-06 - Wazuh ruleset repository.
-* [Sigma Rules](https://github.com/SigmaHQ/sigma) ⭐ 11,164 | 🐛 242 | 🌐 Python | 📅 2026-10-04 - Huge collection of detection rules from SIGMA HQ.
-* [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) ⭐ 6,164 | 🐛 118 | 🌐 Python | 📅 2026-10-06 and [Sentinel Solution Rules](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions) ⭐ 6,164 | 🐛 118 | 🌐 Python | 📅 2026-10-06- Collection of KQL detection queries for Sentinel.
-* [Elastic Rules](https://www.elastic.co/guide/en/security/current/prebuilt-rules.html), [Elastic Detection Rules Explorer](https://elastic.github.io/detection-rules-explorer) or [Elastic Rules GitHub Repository](https://github.com/elastic/detection-rules/tree/main/rules) ⭐ 2,713 | 🐛 255 | 🌐 Python | 📅 2026-10-06- Elastic's detection rules.
+* [Wazuh Ruleset](https://github.com/wazuh/wazuh/tree/master/ruleset) ⭐ 17,138 | 🐛 3,192 | 🌐 C++ | 📅 2026-10-06 - Wazuh ruleset repository.
+* [Sigma Rules](https://github.com/SigmaHQ/sigma) ⭐ 11,170 | 🐛 243 | 🌐 Python | 📅 2026-10-06 - Huge collection of detection rules from SIGMA HQ.
+* [Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections) ⭐ 6,165 | 🐛 115 | 🌐 Python | 📅 2026-10-06 and [Sentinel Solution Rules](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions) ⭐ 6,165 | 🐛 115 | 🌐 Python | 📅 2026-10-06- Collection of KQL detection queries for Sentinel.
+* [Elastic Rules](https://www.elastic.co/guide/en/security/current/prebuilt-rules.html), [Elastic Detection Rules Explorer](https://elastic.github.io/detection-rules-explorer) or [Elastic Rules GitHub Repository](https://github.com/elastic/detection-rules/tree/main/rules) ⭐ 2,714 | 🐛 258 | 🌐 Python | 📅 2026-10-06- Elastic's detection rules.
 * [KQL Queries | Bert-JanP](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) ⭐ 1,758 | 🐛 0 | 🌐 Python | 📅 2026-10-04 - Collection of KQL queries.
-* [Splunk Rules](https://research.splunk.com/detections/) and [Splunk Rules GitHub Repository](https://github.com/splunk/security_content/tree/develop/detections) ⭐ 1,705 | 🐛 24 | 🌐 Python | 📅 2026-10-06 - Splunk's detection rules.
+* [Splunk Rules](https://research.splunk.com/detections/) and [Splunk Rules GitHub Repository](https://github.com/splunk/security_content/tree/develop/detections) ⭐ 1,705 | 🐛 25 | 🌐 Python | 📅 2026-10-06 - Splunk's detection rules.
 * [KQL Queries for Sentinel | reprise99](https://github.com/reprise99/Sentinel-Queries) ⭐ 1,653 | 🐛 9 | 📅 2026-01-29 - Collection of KQL queries.
 * [Elastic Security for Endpoint Rules](https://github.com/elastic/protections-artifacts/tree/main) ⭐ 1,496 | 🐛 10 | 🌐 YARA | 📅 2026-10-06- Elastic's Security for Endpoint detection rules.
 * [KQL Queries | SlimKQL](https://github.com/SlimKQL/Hunting-Queries-Detection-Rules) ⭐ 934 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-04 - Collection of KQL queries.
@@ -49,7 +49,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 * [Google Cloud Platform (GCP) Community Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics) ⚠️ Archived - Security analytics to monitor cloud activity within Google Cloud.
 * [KQL Queries | SecurityAura](https://github.com/SecurityAura/DE-TH-Aura) ⭐ 289 | 🐛 0 | 📅 2026-06-23 - Collection of KQL queries.
 * [Sigma Rules | JoeSecurity](https://github.com/joesecurity/sigma-rules/tree/master/rules) ⭐ 245 | 🐛 7 | 📅 2024-11-04 - Collection of sigma rules.
-* [Sigma Rules | Yamato Security](https://github.com/Yamato-Security/hayabusa-rules/tree/main/sigma) ⭐ 226 | 🐛 2 | 🌐 Python | 📅 2026-10-02 - Collection of sigma rules.
+* [Sigma Rules | Yamato Security](https://github.com/Yamato-Security/hayabusa-rules/tree/main/sigma) ⭐ 226 | 🐛 3 | 🌐 Python | 📅 2026-10-06 - Collection of sigma rules.
 * [Sigma Rules | mbabinski](https://github.com/mbabinski/Sigma-Rules/tree/main) ⭐ 167 | 🐛 1 | 📅 2025-11-25 - Collection of sigma rules.
 * [Sigma Rules | tsale](https://github.com/tsale/Sigma_rules/tree/main) ⭐ 126 | 🐛 0 | 🌐 Python | 📅 2025-01-29 - Collection of sigma rules.
 * [Anvilogic Detection Armory](https://github.com/anvilogic-forge/armory/tree/main/detections) ⭐ 119 | 🐛 0 | 📅 2026-03-31 - Public versions of the detections from the Anvilogic Platform Armory.
@@ -81,9 +81,9 @@ Resources are tailored as much as possible to the role of the detection engineer
 
 ### Attack Samples
 
-* [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) ⭐ 2,635 | 🐛 5 | 🌐 HTML | 📅 2023-01-24 - Event viewer attack samples.
-* [Security Datasets](https://github.com/OTRF/Security-Datasets/tree/master/datasets) ⭐ 1,830 | 🐛 14 | 🌐 PowerShell | 📅 2024-03-20 - Datasets of malicious and benign indicators, from different platforms.
-* [Attack Data | Splunk](https://github.com/splunk/attack_data) ⭐ 825 | 🐛 4 | 🌐 Python | 📅 2026-10-05 A repository of datasets from various attacks
+* [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) ⭐ 2,636 | 🐛 5 | 🌐 HTML | 📅 2023-01-24 - Event viewer attack samples.
+* [Security Datasets](https://github.com/OTRF/Security-Datasets/tree/master/datasets) ⭐ 1,832 | 🐛 14 | 🌐 PowerShell | 📅 2024-03-20 - Datasets of malicious and benign indicators, from different platforms.
+* [Attack Data | Splunk](https://github.com/splunk/attack_data) ⭐ 826 | 🐛 4 | 🌐 Python | 📅 2026-10-06 A repository of datasets from various attacks
 * [EVTX to MITRE Attack](https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack) ⭐ 644 | 🐛 0 | 📅 2026-05-21 - IOCs in EVTX format.
 * [PCAP-ATTACK | sbousseaden](https://github.com/sbousseaden/PCAP-ATTACK) ⭐ 375 | 🐛 2 | 📅 2021-04-29 - PCAP captures mapped to the relevant attack tactic.
 * [Mordor Dataset](https://github.com/UraSecTeam/mordor) ⭐ 70 | 🐛 0 | 📅 2021-03-18 - Pre-recorded security events generated after simulating adversarial techniques.
@@ -93,8 +93,8 @@ Resources are tailored as much as possible to the role of the detection engineer
 
 ### Detection Tests and Emulation Tools
 
-* [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) ⭐ 12,613 | 🐛 35 | 🌐 C | 📅 2026-10-05 - Tests mapped to the MITRE ATT\&CK framework.
-* [Game of Active Directory Lab | Orange CyberDefense](https://github.com/Orange-Cyberdefense/GOAD) ⭐ 8,436 | 🐛 152 | 🌐 PowerShell | 📅 2026-03-12 -The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.
+* [Atomic Red Team | Red Canary](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) ⭐ 12,616 | 🐛 36 | 🌐 C | 📅 2026-10-06 - Tests mapped to the MITRE ATT\&CK framework.
+* [Game of Active Directory Lab | Orange CyberDefense](https://github.com/Orange-Cyberdefense/GOAD) ⭐ 8,439 | 🐛 152 | 🌐 PowerShell | 📅 2026-03-12 -The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.
 * [Infection Monkey](https://github.com/guardicore/monkey#infection-monkey) ⭐ 7,097 | 🐛 240 | 🌐 Python | 📅 2025-05-01 - Open-source adversary emulation platform.
 * [APT Simulator](https://github.com/NextronSystems/APTSimulator#apt-simulator) ⭐ 2,775 | 🐛 4 | 🌐 Batchfile | 📅 2025-09-23 - Windows batch script that uses a set of tools and output files to make a system look as if it was compromised.
 * [Stratus Red Team | DataDog](https://github.com/DataDog/stratus-red-team) ⭐ 2,420 | 🐛 73 | 🌐 Go | 📅 2026-10-01 - Similar to red team atomics but for cloud.
@@ -111,8 +111,8 @@ Resources are tailored as much as possible to the role of the detection engineer
 
 ### Logging Configuration and Best Practices
 
-* [Sysmon Configuration | SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config) ⭐ 5,675 | 🐛 83 | 📅 2024-07-03
-* [Sysmon Configuration | Olaf Hartong](https://github.com/olafhartong/sysmon-modular) ⭐ 3,148 | 🐛 52 | 🌐 Go | 📅 2026-09-18
+* [Sysmon Configuration | SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config) ⭐ 5,676 | 🐛 83 | 📅 2024-07-03
+* [Sysmon Configuration | Olaf Hartong](https://github.com/olafhartong/sysmon-modular) ⭐ 3,149 | 🐛 52 | 🌐 Go | 📅 2026-09-18
 * [Auditd Logging Configuration | Neo23x0](https://github.com/Neo23x0/auditd/blob/master/audit.rules) ⭐ 1,950 | 🐛 19 | 🌐 Shell | 📅 2026-05-04
 * [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
 * [Microsoft Monitoring Active Directory](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/monitoring-active-directory-for-signs-of-compromise)
@@ -179,7 +179,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 
 * [DeTT\&CT](https://github.com/rabobank-cdc/DeTTECT/) ⭐ 2,346 | 🐛 16 | 🌐 SCSS | 📅 2026-09-14 - DeTT\&CT aims to assist blue teams in using ATT\&CK to score and compare data log source quality, visibility coverage, detection coverage and threat actor behaviors.
 * [EDR Telemetry | tsale](https://github.com/tsale/EDR-Telemetry/tree/main) ⭐ 1,990 | 🐛 13 | 🌐 Python | 📅 2026-09-28 - Telemetry comparison and telemetry generator for different EDRs.
-* [Alerting and Detection Strategies (ADS) Framework | Palantir](https://github.com/palantir/alerting-detection-strategy-framework#alerting-and-detection-strategies-framework) ⭐ 913 | 🐛 3 | 📅 2026-10-02- A structured approach to designing and documenting effective detection methodologies.
+* [Alerting and Detection Strategies (ADS) Framework | Palantir](https://github.com/palantir/alerting-detection-strategy-framework#alerting-and-detection-strategies-framework) ⭐ 915 | 🐛 3 | 📅 2026-10-02- A structured approach to designing and documenting effective detection methodologies.
 * [xCyclopedia](https://github.com/strontic/xcyclopedia) ⭐ 484 | 🐛 4 | 🌐 PowerShell | 📅 2021-11-09 - The xCyclopedia project attempts to document all executable binaries (and eventually scripts) that reside on a typical operating system.
 * [Adversarial Detection Engineering Framework](https://github.com/NikolasBielski/Adversarial-Detection-Engineering-Framework) ⭐ 63 | 🐛 0 | 📅 2026-09-28 - Adversarial Detection Engineering (ADE) is the discipline of reasoning about False Negatives in detection rules.
 * [MITRE ATT\&CK®](https://attack.mitre.org/) - MITRE ATT\&CK knowledge base of adversary tactics and techniques.
@@ -321,7 +321,7 @@ Resources are tailored as much as possible to the role of the detection engineer
 ### Other Resource Aggregator Projects
 
 * [Awesome Threat Detection | 0x4D31](https://github.com/0x4D31/awesome-threat-detection) ⭐ 4,739 | 🐛 60 | 📅 2026-01-05
-* [Awesome Detection Engineering | infosecB](https://github.com/infosecB/awesome-detection-engineering) ⭐ 1,353 | 🐛 14 | 📅 2026-10-01
+* [Awesome Detection Engineering | infosecB](https://github.com/infosecB/awesome-detection-engineering) ⭐ 1,354 | 🐛 15 | 📅 2026-10-01
 * [Detection Engineering Starter Pack | rfackroyd](https://github.com/rfackroyd/detection-engineering-starter-pack) ⭐ 196 | 🐛 4 | 📅 2026-06-04
 
 ***
