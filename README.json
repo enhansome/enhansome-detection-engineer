@@ -15,11 +15,11 @@
             "id": 40556106,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T23:25:04Z",
-            "open_issues": 3159,
+            "last_commit": "2026-10-29T23:18:54Z",
+            "open_issues": 3154,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 17479,
+            "stars": 17496,
             "topics": [
               "cloud-security",
               "compliance",
@@ -58,10 +58,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-21T03:04:45Z",
-            "open_issues": 308,
+            "open_issues": 310,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 11364,
+            "stars": 11367,
             "topics": [
               "elasticsearch",
               "ids",
@@ -88,11 +88,11 @@
             "id": 145183271,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-28T23:25:35Z",
-            "open_issues": 106,
+            "last_commit": "2026-10-29T23:25:50Z",
+            "open_issues": 108,
             "owner": "Azure",
             "repo": "Azure-Sentinel",
-            "stars": 6228,
+            "stars": 6230,
             "topics": [
               "cybersecurity",
               "sample-code"
@@ -112,11 +112,11 @@
             "id": 273084758,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T22:26:38Z",
-            "open_issues": 301,
+            "last_commit": "2026-10-29T22:26:44Z",
+            "open_issues": 308,
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2942,
+            "stars": 2944,
             "topics": [
               "threat-detection",
               "threat-hunting"
@@ -173,11 +173,11 @@
             "id": 162346001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T22:58:44Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-29T16:18:18Z",
+            "open_issues": 27,
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1720,
+            "stars": 1721,
             "topics": [
               "cicd",
               "cybersecurity",
@@ -206,7 +206,7 @@
             "open_issues": 9,
             "owner": "reprise99",
             "repo": "Sentinel-Queries",
-            "stars": 1658,
+            "stars": 1659,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
@@ -333,11 +333,11 @@
             "id": 515552031,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-28T02:00:16Z",
+            "last_commit": "2026-10-29T02:04:22Z",
             "open_issues": 1,
             "owner": "cyb3rmik3",
             "repo": "KQL-threat-hunting-queries",
-            "stars": 802,
+            "stars": 801,
             "topics": [
               "kql",
               "kusto",
@@ -461,7 +461,7 @@
             "open_issues": 0,
             "owner": "SecurityAura",
             "repo": "DE-TH-Aura",
-            "stars": 293,
+            "stars": 294,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
@@ -718,7 +718,7 @@
             "open_issues": 5,
             "owner": "sbousseaden",
             "repo": "EVTX-ATTACK-SAMPLES",
-            "stars": 2641,
+            "stars": 2642,
             "topics": [
               "dataset",
               "detection-engineering",
@@ -765,8 +765,8 @@
             "id": 281495346,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T21:18:33Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-29T15:05:36Z",
+            "open_issues": 5,
             "owner": "splunk",
             "repo": "attack_data",
             "stars": 839,
@@ -868,10 +868,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-27T22:29:57Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "redcanaryco",
             "repo": "atomic-red-team",
-            "stars": 12740,
+            "stars": 12742,
             "topics": [
               "mitre",
               "mitre-attack"
@@ -892,10 +892,10 @@
             "language": "PowerShell",
             "license": "GPL-3.0",
             "last_commit": "2026-10-23T22:21:10Z",
-            "open_issues": 152,
+            "open_issues": 154,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8538,
+            "stars": 8541,
             "topics": [
               "active-directory",
               "ansible",
@@ -923,7 +923,7 @@
             "open_issues": 241,
             "owner": "guardicore",
             "repo": "monkey",
-            "stars": 7114,
+            "stars": 7116,
             "topics": [
               "adversary-emulation",
               "infection-monkey",
@@ -950,7 +950,7 @@
             "open_issues": 4,
             "owner": "NextronSystems",
             "repo": "APTSimulator",
-            "stars": 2783,
+            "stars": 2784,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
@@ -967,11 +967,11 @@
             "id": 445524190,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T09:55:34Z",
-            "open_issues": 76,
+            "last_commit": "2026-10-29T10:15:50Z",
+            "open_issues": 75,
             "owner": "DataDog",
             "repo": "stratus-red-team",
-            "stars": 2433,
+            "stars": 2435,
             "topics": [
               "adversary-emulation",
               "aws",
@@ -1088,7 +1088,7 @@
             "open_issues": 11,
             "owner": "eventum-generator",
             "repo": "eventum",
-            "stars": 70,
+            "stars": 71,
             "topics": [
               "clickhouse",
               "data-engineering",
@@ -1192,7 +1192,7 @@
             "open_issues": 19,
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1962,
+            "stars": 1960,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:38.345Z"
@@ -1236,8 +1236,8 @@
             "id": 622335595,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T03:59:00Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-29T23:10:07Z",
+            "open_issues": 11,
             "owner": "tsale",
             "repo": "EDR-Telemetry",
             "stars": 1998,
@@ -1305,11 +1305,11 @@
           "repo_info": {
             "archived": false,
             "description": "A framework and taxonomy for identifying, classifying, and reasoning about detection logic bugs in SIEM, EDR, and XDR rules, with concrete examples and real-world bypasses.",
-            "homepage": null,
+            "homepage": "https://adeframework.org/",
             "id": 1146593546,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-28T07:37:20Z",
+            "last_commit": "2026-10-29T05:11:22Z",
             "open_issues": 0,
             "owner": "Adversarial-Detection-Engineering",
             "repo": "Adversarial-Detection-Engineering-Framework",
@@ -1457,7 +1457,7 @@
             "open_issues": 64,
             "owner": "0x4D31",
             "repo": "awesome-threat-detection",
-            "stars": 4773,
+            "stars": 4775,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1515,7 +1515,7 @@
             "open_issues": 4,
             "owner": "rfackroyd",
             "repo": "detection-engineering-starter-pack",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "detection",
               "detection-engineering",
@@ -1530,7 +1530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T23:29:24.178Z",
+    "last_updated": "2026-10-29T23:33:02.061Z",
     "original_repository_info": {
       "archived": false,
       "description": " Online resources related to Detection Engineering. Detection rules, detection logic, attack samples, detection tests and emulation tools, logging configuration and best practices, event log references, resources, labs, data manipulation online tools, blogs, newsletters, good reads, books, trainings, podcasts, videos and twitter/x accounts.",
